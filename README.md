@@ -1,5 +1,4 @@
-# GitHub-Individual-PROJETO-DE-SISTEMAS-ORIENTADO-A-OBJETOS 
-# Repositório da matéria PROJETO DE SISTEMAS ORIENTADO A OBJETOS do quarto e ultimo semestre de Análise e Desenvolvimento de Sistemas UNIP 
+# Repositório da matéria PROJETO DE SISTEMAS ORIENTADO A OBJETOS do curso Análise e Desenvolvimento de Sistemas UNIP 2025
 
 ## 🔎Descrição
 
@@ -25,8 +24,8 @@ Este projeto tem como objetivo o desenvolvimento de um sistema inteligente de He
 
 Abaixo está a divisão do planejamento das Sprints para a organização do desenvolvimento do projeto.
 
-### 📌 Sprint 1 
--
+### 📌 Sprint 1 (19/08 - 26/08)
+- Desenvolver o repositório com boas práticas.
 
 ### 📌 Sprint 2 
 -
@@ -46,11 +45,11 @@ Os requisitos estão divididos entre funcionais e não funcionais. Os funcionais
 
 ## 🧠 Diagrama de Funcionamento do Sistema
 
-[Diagrama de Casos de Uso]
+[Diagrama de Casos de Uso](https://github.com/renanrnk/GitHub-Individual---PROJETO-DE-SISTEMAS-ORIENTADO-A-OBJETOS/blob/main/Diagrama_De_Funcionamento_Do_Sistema%20atualizado.asta)
 
 ## Protótipo de Interface
 
-[Protótipo de Tela]
+[Protótipo de Tela](https://www.figma.com/proto/PNPPrRL9X2HOf28W2uVfBA/Untitled?node-id=0-1&t=lVBYdFW5QGeTdOtv-1)
 
 ## Modelo Banco de Dados
 
@@ -67,6 +66,7 @@ Os requisitos estão divididos entre funcionais e não funcionais. Os funcionais
 - Git e GitHub
 - Visual Studio / VS Code
 - Figma
+- Astah
 
 ## 📚 Documentação
 
