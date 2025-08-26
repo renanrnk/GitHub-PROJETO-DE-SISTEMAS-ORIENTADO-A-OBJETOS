@@ -46,15 +46,15 @@ Os requisitos estão divididos entre funcionais e não funcionais. Os funcionais
 
 ## 🧠 Diagrama de Funcionamento do Sistema
 
-[Diagrama de Casos de Uso](https://github.com/LucasAntonioGS/PIM4/blob/main/Diagrama_De_Funcionamento_Do_Sistema.asta.)
+[Diagrama de Casos de Uso]
 
 ## Protótipo de Interface
 
-[Protótipo de Tela](https://www.figma.com/proto/PNPPrRL9X2HOf28W2uVfBA/Untitled?node-id=0-1&t=lVBYdFW5QGeTdOtv-1)
+[Protótipo de Tela]
 
 ## Modelo Banco de Dados
 
-[Diagrama Entidade Relacionamento](https://github.com/LucasAntonioGS/PIM4/tree/main/Banco%20de%20Dados)
+[Diagrama Entidade Relacionamento]
 
 
 ## 🧪 Tecnologias Utilizadas
