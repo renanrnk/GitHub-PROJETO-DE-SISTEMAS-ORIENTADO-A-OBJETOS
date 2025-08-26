@@ -20,23 +20,15 @@ Este projeto tem como objetivo o desenvolvimento de um sistema inteligente de He
 - Exportar dados
 - Desativar usuário
 
-- ## 📝 Planejamento das Sprints
+## 🗂️ Planejamento das Sprints  
+| Sprint  | Data            | Atividades                            | Status    |
+|---------|-----------------|-------------------------------------|-----------|
+| Sprint 1| 19/08 - 26/08   | Configuração do repositório e boas práticas | ✅ Concluído |
+| Sprint 2|                 |                                     |           |
+| Sprint 3|                 |                                     |           |
+| Sprint 4|                 |                                     |           |
+| Sprint 5|                 |                                     |           |
 
-Abaixo está a divisão do planejamento das Sprints para a organização do desenvolvimento do projeto.
-
-### 📌 Sprint 1 (19/08 - 26/08)
-- Desenvolver o repositório com boas práticas.
-
-### 📌 Sprint 2 
--
-
-### 📌 Sprint 3
--
-
-### 📌 Sprint 4 
--
-
-### 📌 Sprint 5 
 -
 
 ## 📁 Requisitos
