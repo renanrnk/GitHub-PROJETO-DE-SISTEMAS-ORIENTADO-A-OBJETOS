@@ -13,7 +13,7 @@
 ---
 
 ### 🧩 Descrição do Desafio  
-[Descrição do Desafio](docs/DESAFIO.md)  
+[Descrição do Desafio](https://github.com/renanrnk/GitHub-PROJETO-DE-SISTEMAS-ORIENTADO-A-OBJETOS/blob/main/docs/desafio.md) 
 Apresenta o problema proposto, os objetivos do projeto e a importância da aplicação no contexto de suporte técnico.
 
 ---
@@ -25,13 +25,13 @@ Lista completa de requisitos funcionais e não funcionais, com as histórias de 
 ---
 
 ### 📅 Cronograma de Sprints  
-[Cronograma de Sprints](docs/SPRINTS.md)  
+[Cronograma de Sprints](https://github.com/renanrnk/GitHub-PROJETO-DE-SISTEMAS-ORIENTADO-A-OBJETOS/blob/main/docs/sprint.md)
 Planejamento visual de cada sprint, com períodos, metas e links para as documentações correspondentes.
 
 ---
 
 ### ⚙️ Tecnologias Utilizadas  
-[Tecnologias Utilizadas](docs/TECNOLOGIAS.md)  
+[Tecnologias Utilizadas](https://github.com/renanrnk/GitHub-PROJETO-DE-SISTEMAS-ORIENTADO-A-OBJETOS/blob/main/docs/tecnologias.md) 
 Lista de linguagens, frameworks, ferramentas e bibliotecas empregadas no desenvolvimento do sistema.
 
 ---
@@ -43,13 +43,13 @@ Explicação detalhada sobre a arquitetura de pastas, camadas do sistema e organ
 ---
 
 ### 🧠 DoR - Definition of Ready  
-[Definition of Ready](docs/DOR.md)  
+[Definition of Ready](https://github.com/renanrnk/GitHub-PROJETO-DE-SISTEMAS-ORIENTADO-A-OBJETOS/blob/main/docs/dor.md) 
 Define os critérios necessários para que uma tarefa ou história de usuário esteja pronta para ser iniciada.
 
 ---
 
 ### 🏁 DoD - Definition of Done  
-[Definition of Done](docs/DOD.md)  
+[Definition of Done](https://github.com/renanrnk/GitHub-PROJETO-DE-SISTEMAS-ORIENTADO-A-OBJETOS/blob/main/docs/dod.md) 
 Lista os critérios de aceitação e condições que garantem a conclusão de cada entrega de sprint.
 
 ---
@@ -73,7 +73,7 @@ Apresenta os integrantes da equipe, papéis, responsabilidades e links para GitH
 ---
 
 ### 💻 Manual de Instalação e Execução  
-[Manual de Instalação e Execução](docs/MANUAL.md)  
+[Manual de Instalação e Execução](https://github.com/renanrnk/GitHub-PROJETO-DE-SISTEMAS-ORIENTADO-A-OBJETOS/blob/main/docs/manual.md)
 Guia passo a passo para instalar, configurar e executar o sistema localmente.
 
 ---
