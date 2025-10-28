@@ -19,7 +19,7 @@ Apresenta o problema proposto, os objetivos do projeto e a importância da aplic
 ---
 
 ### 📋 Backlog do Produto  
-[Backlog do Produto](docs/BACKLOG.md)  
+[Backlog do Produto]([docs/BACKLOG.md](http://github.com/renanrnk/GitHub-PROJETO-DE-SISTEMAS-ORIENTADO-A-OBJETOS/blob/main/docs/backlog.md))  
 Lista completa de requisitos funcionais e não funcionais, com as histórias de usuário organizadas por prioridade e sprint.
 
 ---
