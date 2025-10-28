@@ -14,72 +14,84 @@
 
 ### 🧩 Descrição do Desafio  
 [Descrição do Desafio](https://github.com/renanrnk/GitHub-PROJETO-DE-SISTEMAS-ORIENTADO-A-OBJETOS/blob/main/docs/desafio.md) 
+
 Apresenta o problema proposto, os objetivos do projeto e a importância da aplicação no contexto de suporte técnico.
 
 ---
 
 ### 📋 Backlog do Produto  
 [Backlog do Produto](https://github.com/renanrnk/GitHub-PROJETO-DE-SISTEMAS-ORIENTADO-A-OBJETOS/blob/main/docs/backlog.md)  
+
 Lista completa de requisitos funcionais e não funcionais, com as histórias de usuário organizadas por prioridade e sprint.
 
 ---
 
 ### 📅 Cronograma de Sprints  
 [Cronograma de Sprints](https://github.com/renanrnk/GitHub-PROJETO-DE-SISTEMAS-ORIENTADO-A-OBJETOS/blob/main/docs/sprint.md)
+
 Planejamento visual de cada sprint, com períodos, metas e links para as documentações correspondentes.
 
 ---
 
 ### ⚙️ Tecnologias Utilizadas  
 [Tecnologias Utilizadas](https://github.com/renanrnk/GitHub-PROJETO-DE-SISTEMAS-ORIENTADO-A-OBJETOS/blob/main/docs/tecnologias.md) 
+
 Lista de linguagens, frameworks, ferramentas e bibliotecas empregadas no desenvolvimento do sistema.
 
 ---
 
 ### 📂 Estrutura do Projeto  
 [Estrutura do Projeto](docs/ESTRUTURA.md)  
+
 Explicação detalhada sobre a arquitetura de pastas, camadas do sistema e organização geral do repositório.
 
 ---
 
 ### 🧠 DoR - Definition of Ready  
 [Definition of Ready](https://github.com/renanrnk/GitHub-PROJETO-DE-SISTEMAS-ORIENTADO-A-OBJETOS/blob/main/docs/dor.md) 
+
 Define os critérios necessários para que uma tarefa ou história de usuário esteja pronta para ser iniciada.
 
 ---
 
 ### 🏁 DoD - Definition of Done  
 [Definition of Done](https://github.com/renanrnk/GitHub-PROJETO-DE-SISTEMAS-ORIENTADO-A-OBJETOS/blob/main/docs/dod.md) 
+
 Lista os critérios de aceitação e condições que garantem a conclusão de cada entrega de sprint.
 
 ---
 
 ### 🧩 Diagramas e Modelagem  
 [Diagramas e Modelagem](docs/DIAGRAMAS.md)  
+
 Contém os diagramas UML, de casos de uso, banco de dados e fluxos de funcionamento do sistema.
 
 ---
 
 ### 📚 Documentação e Relatórios  
 [Documentação e Relatórios](docs/DOCUMENTACAO.md)  
+
 Reúne relatórios de testes, manuais do usuário, documentação da API e demais arquivos técnicos do projeto.
 
 ---
 
 ### 👨‍💻 Equipe do Projeto  
 [Equipe do Projeto](docs/EQUIPE.md)  
+
 Apresenta os integrantes da equipe, papéis, responsabilidades e links para GitHub e LinkedIn.
 
 ---
 
 ### 💻 Manual de Instalação e Execução  
 [Manual de Instalação e Execução](https://github.com/renanrnk/GitHub-PROJETO-DE-SISTEMAS-ORIENTADO-A-OBJETOS/blob/main/docs/manual.md)
+
 Guia passo a passo para instalar, configurar e executar o sistema localmente.
 
 ---
 
 ### 🎥 Vídeos de Entregas  
 [Vídeos de Entregas](docs/VIDEOS.md)  
+
 Links para os vídeos das apresentações e incrementos desenvolvidos em cada sprint.
 
 ---
